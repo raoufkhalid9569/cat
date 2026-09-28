@@ -1,0 +1,6 @@
+{
+  "name": "ClaimClarity - Insurance Denial & Medical Bill Appeal",
+  "description": "Decode health insurance denial letters, fight unfair medical bills, and generate legally backed appeal letters with RevenueCat monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
